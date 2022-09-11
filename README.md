@@ -14,4 +14,4 @@ Steps:\
 1.) Connect repository to hosting service \
 2.) Add the `SECRET` env var.
 
-
+### WS Server URL: https://commontongue-ws-server-production.up.railway.app/
